@@ -1,0 +1,5 @@
+grpcio
+tensorflow
+tensorflow-serving-api
+requests
+flask
